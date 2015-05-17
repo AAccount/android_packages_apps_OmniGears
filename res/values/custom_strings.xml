@@ -129,6 +129,10 @@
     <!-- Swap volume buttons when the screen is rotated -->
     <string name="swap_volume_buttons_title">Match rotation</string>
     <string name="swap_volume_buttons_summary">Adjust volume buttons action based on current rotation</string>
+ 
+	<!-- Volume long press control -->
+	<string name="button_volume_music_control_title">Playback control</string>
+	<string name="button_volume_music_control_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
 
     <string name="battery_title">Status bar battery</string>
     <string name="battery_style_title">Style</string>
